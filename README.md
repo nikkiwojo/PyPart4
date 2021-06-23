@@ -1,7 +1,7 @@
 # Part 4
 
 ## Accompanying resources
-* Slide deck: https://zipcoder.github.io/reveal-slides.data-engineering/zcw_content/python/fundamentals-part4.html
+* Slide deck: https://zipcoder.github.io/curriculum-assets/lectures/python/recursion-and-loops/
 
 ## Exercise 1
 
